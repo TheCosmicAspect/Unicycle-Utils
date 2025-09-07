@@ -2,7 +2,7 @@
 
 A Discord bot for tracking and managing unicycles, including ownership and custody tracking.
 
-**Add to your server with [this link](https://discord.com/api/oauth2/authorize?client_id=1413756668512178278&permissions=268438528&scope=bot%20applications.commands) **
+**Add to your server with [this link](https://discord.com/api/oauth2/authorize?client_id=1413756668512178278&permissions=268438528&scope=bot%20applications.commands)**
 
 ### Commands
 
